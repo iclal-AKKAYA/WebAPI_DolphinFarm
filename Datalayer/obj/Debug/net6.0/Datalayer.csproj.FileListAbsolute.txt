@@ -1,0 +1,12 @@
+C:\Users\ici\source\repos\WebAPI\Datalayer\bin\Debug\net6.0\Datalayer.deps.json
+C:\Users\ici\source\repos\WebAPI\Datalayer\bin\Debug\net6.0\Datalayer.dll
+C:\Users\ici\source\repos\WebAPI\Datalayer\bin\Debug\net6.0\Datalayer.pdb
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\Datalayer.csproj.AssemblyReference.cache
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\Datalayer.AssemblyInfoInputs.cache
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\Datalayer.AssemblyInfo.cs
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\Datalayer.csproj.CoreCompileInputs.cache
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\Datalayer.dll
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\refint\Datalayer.dll
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\Datalayer.pdb
+C:\Users\ici\source\repos\WebAPI\Datalayer\obj\Debug\net6.0\ref\Datalayer.dll

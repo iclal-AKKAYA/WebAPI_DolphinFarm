@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{C627DA4D-A3B9-43E8-AFF0-80B8D040B55E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{6D191394-C3F2-47CB-B8E6-64798A8DF16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datalayer", "Datalayer\Datalayer.csproj", "{21506635-68DC-454C-935E-1CD95E7FF41B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C627DA4D-A3B9-43E8-AFF0-80B8D040B55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C627DA4D-A3B9-43E8-AFF0-80B8D040B55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C627DA4D-A3B9-43E8-AFF0-80B8D040B55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C627DA4D-A3B9-43E8-AFF0-80B8D040B55E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D191394-C3F2-47CB-B8E6-64798A8DF16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D191394-C3F2-47CB-B8E6-64798A8DF16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D191394-C3F2-47CB-B8E6-64798A8DF16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D191394-C3F2-47CB-B8E6-64798A8DF16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21506635-68DC-454C-935E-1CD95E7FF41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21506635-68DC-454C-935E-1CD95E7FF41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21506635-68DC-454C-935E-1CD95E7FF41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21506635-68DC-454C-935E-1CD95E7FF41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B363382F-1585-4C22-88D5-6A4031D411B3}
+	EndGlobalSection
+EndGlobal
